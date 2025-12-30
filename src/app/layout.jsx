@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
 
         {children}
 
-        <footer>
+        <footer className="py-2 md:w-11/12 mx-auto">
           <Footer></Footer>
         </footer>
 
